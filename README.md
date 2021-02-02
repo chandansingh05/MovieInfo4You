@@ -11,7 +11,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
-Check out the live demo: https://moviesinfo4you.herokuapp.com/
+Check out the live demo: https://movieinfo4you.herokuapp.com/
 
 ## Note
 
