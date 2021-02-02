@@ -1,4 +1,4 @@
-# The-Movie-Cinema
+# MovieInfo4You
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
@@ -11,7 +11,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
-Check out the live demo: https://the-movie-cinema.herokuapp.com/
+Check out the live demo: https://moviesinfo4you.herokuapp.com/
 
 ## Note
 
@@ -24,7 +24,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 ## How to run the project?
 
 1. Clone this repository in your local system.
-2. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/The-Movie-Cinema/blob/master/requirements.txt) file.
+2. Install all the libraries mentioned in the [requirements.txt](https://github.com/chandansingh05/MovieInfo4You/edit/master/requirements.txt) file.
 3. Replace YOUR_API_KEY in **both** the places (line no. 23 and 43) of `static/recommend.js` file.
 4. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
